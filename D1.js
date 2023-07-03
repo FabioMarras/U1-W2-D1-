@@ -11,7 +11,10 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/* RISPOSTA: Stringa indica tutto ciò che è compreso tra gli apici, Numerico indica un numero anche in decimali con l'utilizzo del ".", boolean indica se true o false a seconda dei vari valori inseriti
+/* RISPOSTA: 
+Stringa indica tutto ciò che è compreso tra gli apici
+Numerico indica un numero anche in decimali con l'utilizzo del "." 
+Boolean indica se true o false a seconda dei vari valori inseriti
  */
 
 /* ESERCIZIO 2
@@ -62,3 +65,4 @@ console.log(4 - x);
 const name1 = "john";
 const name2 = "John";
 console.log(name1 === name2);
+console.log(name1 === name2.toLowerCase());

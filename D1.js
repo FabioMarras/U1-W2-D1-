@@ -12,9 +12,11 @@ REGOLE
 */
 
 /* RISPOSTA: 
-Stringa indica tutto ciò che è compreso tra gli apici
+Stringa indica tutto ciò che è compreso tra gli apici che può contenere caratteri alfanumerici o simboli
 Numerico indica un numero anche in decimali con l'utilizzo del "." 
 Boolean indica se true o false a seconda dei vari valori inseriti
+undefined indica l'assenza di un valore
+null indica un valore senza un valore 
  */
 
 /* ESERCIZIO 2
